@@ -1,1 +1,1 @@
-Git tutorial provides basic and advanced concepts of Git and GitHub.
+Git tutorial provides basic and advanced concepts of Git and GitHub.Our Git tutorial is designed for beginners and professionals.
